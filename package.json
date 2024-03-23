@@ -2,7 +2,7 @@
   "name": "newback-end-karaoke",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Back-end.js",
   "scripts": {
     "start":"node Back-end.js",
     "format": "prettier --write *.js"
