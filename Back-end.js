@@ -104,7 +104,7 @@ Bookings.hasOne(PaymentDetails, { foreignKey: "BookingID" });
 
 //CRUD
 // CRUD Operations for Users
-// Add a GET route to retrieve all users
+// Add a GET route to retr ieve all users
 
 // Route สำหรับการสร้างผู้ใช้ใหม่
 app.post("/users/create", async (req, res) => {
